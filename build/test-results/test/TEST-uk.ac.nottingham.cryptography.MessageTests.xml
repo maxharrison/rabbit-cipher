@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.MessageTests" tests="7" skipped="0" failures="0" errors="0" timestamp="2023-05-04T16:14:07" hostname="max-laptop" time="0.016">
+  <properties/>
+  <testcase name="encryptSingleBlockSingleMessageTest()" classname="uk.ac.nottingham.cryptography.MessageTests" time="0.001"/>
+  <testcase name="encryptSingleBlockMultiMessageTest()" classname="uk.ac.nottingham.cryptography.MessageTests" time="0.001"/>
+  <testcase name="encryptMultiBlockSingleMessageTest()" classname="uk.ac.nottingham.cryptography.MessageTests" time="0.001"/>
+  <testcase name="encryptMultiBlockMultiMessageTest()" classname="uk.ac.nottingham.cryptography.MessageTests" time="0.007"/>
+  <testcase name="encryptMultiPartialBlockTest()" classname="uk.ac.nottingham.cryptography.MessageTests" time="0.002"/>
+  <testcase name="encryptSinglePartialBlockTest()" classname="uk.ac.nottingham.cryptography.MessageTests" time="0.001"/>
+  <testcase name="extendedRandomMessageEncryptDecrypt()" classname="uk.ac.nottingham.cryptography.MessageTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="uk.ac.nottingham.cryptography.LongTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-05-04T16:14:07" hostname="max-laptop" time="0.063">
+  <properties/>
+  <testcase name="long65KBTest()" classname="uk.ac.nottingham.cryptography.LongTests" time="0.002"/>
+  <testcase name="long1MBTest()" classname="uk.ac.nottingham.cryptography.LongTests" time="0.012"/>
+  <testcase name="long10MBTest()" classname="uk.ac.nottingham.cryptography.LongTests" time="0.048"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
